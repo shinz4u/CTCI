@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1538bbc-a2fd-438b-b58e-584d8f23d89e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/magic_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/permutation_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/step_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/subset_of_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/dynamic_programming/towerofhanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/graphs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/graphs/island_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/graphs/route_between_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/linkedlists/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/linkedlists/delete_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/linkedlists/linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/misc_questions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/misc_questions/coins_changer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/misc_questions/google_q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/misc_questions/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/misc_questions/shifted_array_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/pramp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/pramp/time_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/stacks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/stacks/min_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/strings_and_arrays/URLify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/strings_and_arrays/check_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/strings_and_arrays/is_unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhvLZeAAIm1GyHsheHUKjm2fsq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1538bbc-a2fd-438b-b58e-584d8f23d89e" name="Default Changelist" comment="" />
+      <created>1581511085610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581511085610</updated>
+      <workItem from="1581511106379" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
